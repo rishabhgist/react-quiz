@@ -1,6 +1,7 @@
 ## React Quiz - useReducer
 
 # Preview
+![](quiz.jpg)
 
 # Getting Started with Create React App
 
